@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Li Jiacheng</h1>
 <h3 align="center">Computer Science Student at Universiti Teknologi Malaysia (UTM)</h3>
 
@@ -43,7 +42,7 @@
 ✔ Polymorphism
 ✔ Encapsulation
 ✔ Pointers in C++
-✔ Data Structures
+✔ Database
 ```
 
 ---
@@ -79,10 +78,10 @@ To build an efficient system for managing vehicle rentals, customer information,
 
 ## 🎯 Career Goals
 
-- Become a skilled Software Developer
+- Become a skilled network engineer
 - Build practical software solutions
 - Master Object-Oriented Programming
-- Explore Software Engineering and System Design
+- Explore Network Security
 
 ---
 
@@ -90,7 +89,7 @@ To build an efficient system for managing vehicle rentals, customer information,
 
 - 🎓 Universiti Teknologi Malaysia (UTM)
 - 🌏 China
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 💻 GitHub: https://github.com/vastsky998
 
 ---
 
