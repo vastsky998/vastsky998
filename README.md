@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Li Jiacheng</h1>
 <h3 align="center">Computer Science Student at Universiti Teknologi Malaysia (UTM)</h3>
 
-<p align="center">
+**<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Learning+C%2B%2B+and+OOP;Future+Software+Developer;Welcome+to+my+GitHub+Profile!&center=true&width=600&height=50">
 </p>
-
+**
 ---
 
 ## 🚀 About Me
