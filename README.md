@@ -67,15 +67,6 @@ To build an efficient system for managing vehicle rentals, customer information,
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vastsky998&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastsky998&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎯 Career Goals
 
 - Become a skilled network engineer
